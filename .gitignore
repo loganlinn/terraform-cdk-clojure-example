@@ -1,0 +1,11 @@
+*.class
+*.jar
+*terraform.*.tfstate*
+.clj-kondo/.cache
+.cpcache/
+.nrepl-port
+.terraform
+/target/
+cdktf.log
+cdktf.out
+node_modules/

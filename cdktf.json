@@ -1,0 +1,12 @@
+{
+  "language": "java",
+  "app": "clojure -X azure",
+  "terraformProviders": [
+    "azurerm@~> 2.0.0"
+  ],
+  "context": {
+    "excludeStackIdFromLogicalIds": "true",
+    "allowSepCharsInLogicalIds": "true"
+  },
+  "projectId": "62f03609-a6e3-4c60-a707-a9aeabc37100"
+}
